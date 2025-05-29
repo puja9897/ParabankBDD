@@ -12,8 +12,8 @@ pipeline {
         stage('Build and Test') {
             steps {
                 // Run Maven build and tests
-                sh 'mvn clean install'
-                sh 'mvn test'
+                bat 'mvn clean install'
+                bat 'mvn test'
             }
         }
 
