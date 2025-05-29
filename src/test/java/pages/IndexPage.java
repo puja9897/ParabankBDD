@@ -20,4 +20,6 @@ public class IndexPage{
 		
 		registrationLink.click();
 	}
+	
+
 }

@@ -1,5 +1,0 @@
-pages\RegistrationPage.class
-runners\TestRunner.class
-stepDefinitions\RegistrationSteps.class
-base\DriverManager.class
-pages\IndexPage.class
